@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scribear/static/css/main.9ae185c4.chunk.css",
-    "main.js": "/scribear/static/js/main.006b9b5a.chunk.js",
-    "main.js.map": "/scribear/static/js/main.006b9b5a.chunk.js.map",
+    "main.js": "/scribear/static/js/main.de7088fa.chunk.js",
+    "main.js.map": "/scribear/static/js/main.de7088fa.chunk.js.map",
     "reactPlayerDailyMotion.js": "/scribear/static/js/reactPlayerDailyMotion.f1a36ccb.chunk.js",
     "reactPlayerDailyMotion.js.map": "/scribear/static/js/reactPlayerDailyMotion.f1a36ccb.chunk.js.map",
     "reactPlayerFacebook.js": "/scribear/static/js/reactPlayerFacebook.0e2fd85b.chunk.js",
@@ -43,6 +43,6 @@
     "static/css/14.8a55d5d2.chunk.css",
     "static/js/14.1d3364a2.chunk.js",
     "static/css/main.9ae185c4.chunk.css",
-    "static/js/main.006b9b5a.chunk.js"
+    "static/js/main.de7088fa.chunk.js"
   ]
 }
