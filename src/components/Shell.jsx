@@ -71,14 +71,14 @@ function Shell() {
             element.seekTo(element.getCurrentTime() - 1, 'seconds');
           }
         }
-      } else if (event.code === 'F1' || event.code === 'AudioVolumeMute') {
+      } else if (event.code === 'F1') {
         event.preventDefault();
         if (audioPlayer) {
           element.current.currentTime = element.current.currentTime - 2;
         } else if (showVideoPlayer) {
           element.seekTo(element.getCurrentTime() - 2, 'seconds');
         }
-      } else if (event.code === 'F2' || event.code === 'AudioVolumeDown') {
+      } else if (event.code === 'F2') {
         event.preventDefault();
         if (audioPlayer) {
           element.current.currentTime = element.current.currentTime + 2;

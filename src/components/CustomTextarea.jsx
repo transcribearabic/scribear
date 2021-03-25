@@ -84,7 +84,7 @@ const CustomTextarea = ({
         },
         toolbar_mode: 'sliding',
         plugins: [
-          'advlist autolink lists link image table charmap print preview anchor export pagebreak',
+          'advlist autolink lists link image table charmap print preview anchor pagebreak',
           'searchreplace visualblocks code fullscreen',
           'insertdatetime media table paste code help wordcount',
           'quickbars',
